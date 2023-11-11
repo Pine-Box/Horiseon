@@ -50,14 +50,19 @@ p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
+
+/* Reduced the height so visitors can see content below the fold*/
+.head_image {
+    padding-top: 56.25%; /* Aspect Ratio 16:9 */
+    height: 400px; /* Reduced the height so visitors can see content below the fold*/
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
+
+
 
 .float-left {
     float: left;
