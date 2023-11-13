@@ -37,5 +37,7 @@ Date for delivery to the Marketing Manager is 14th November 2023 and a meeting i
 
 The following link to view Horiseon's Landing Page: https://pine-box.github.io/Horiseon/starter/
 
-![Horiseon Landing Page] https://github.com/Pine-Box/Horiseon/tree/main/Assets
+![Horiseon Landing Page](https://github.com/Pine-Box/Horiseon/blob/main/Assets/01-html-css-git-challenge-demo.png)
+
+Horiseon Landing Page 
 
