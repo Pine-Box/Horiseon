@@ -34,3 +34,8 @@ The Horiseon website must meet accessibility standards and SEO optimization.
 The deliverable for this work is Horiseons repo, with feature branch named code-refactor-challenge which will encapsulate the refactored code meeting current accessibility standards.
 
 Date for delivery to the Marketing Manager is 14th November 2023 and a meeting is set on the 15th November 2023 to receive feedback from Leon Buccaneer - Marketing Manager. 
+
+The following link to view Horiseon's Landing Page: https://pine-box.github.io/Horiseon/starter/
+
+![Horiseon Landing Page] https://github.com/Pine-Box/Horiseon/tree/main/Assets
+
